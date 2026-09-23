@@ -1,4 +1,4 @@
-#include<stdio.h>       
+#include<arduino.h>       
 
 void setup() {
     Serial.begin(115200);
